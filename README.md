@@ -94,6 +94,8 @@ if __name__=='__main__':
 ```
 ---
 ### Result
+Input text: Natural Language Processing (NLP) is a branch of AI that enables computers to understand, interpret, and generate human language. It's used in applications like chatbots, translation, and sentiment analysis to make machines interact with language more naturally.
+
 - ADJ: human
 - NOUN: branch, computers, computer, language, applications, application, chatbots, chatbot, translation, analysis, machines, machine
 - VERB: enables, understand, interpret, generate, used, sentiment, make, interact
