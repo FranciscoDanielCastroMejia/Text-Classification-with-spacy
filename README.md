@@ -94,8 +94,8 @@ if __name__=='__main__':
 ```
 ---
 ### Result
-*ADJ: human
-*NOUN: branch, computers, computer, language, applications, application, chatbots, chatbot, translation, analysis, machines, machine
-*VERB: enables, understand, interpret, generate, used, sentiment, make, interact
-*ADV: more, naturally
-*PROPN: Natural, Language, Processing, NLP, AI
+- ADJ: human
+- NOUN: branch, computers, computer, language, applications, application, chatbots, chatbot, translation, analysis, machines, machine
+- VERB: enables, understand, interpret, generate, used, sentiment, make, interact
+- ADV: more, naturally
+- PROPN: Natural, Language, Processing, NLP, AI
